@@ -2,7 +2,7 @@
 
 **18 hands-on tasks. 6 weeks. From "what is the CIA triad?" to a full penetration test with a root shell.**
 
-Hi, I'm **Mah Noor**, a BS Information Technology student specializing in cybersecurity, working towards becoming a cybersecurity analyst. This repository is my complete record of the Tech Biz Security Ethical Hacking internship (August to September 2026). Every task has its own report with commands, screenshots and what I found.
+Hi, I'm **Mah Noor**, a BS Information Technology student specializing in cybersecurity, working towards becoming a Ethical Hacker. This repository is my complete record of the Tech Biz Security Ethical Hacking internship (August to September 2026). Every task has its own report with commands, screenshots and what I found.
 
 ---
 
@@ -62,4 +62,4 @@ All testing was done on intentionally vulnerable machines and training platforms
 
 ## Connect
 
-Mah Noor · Aspiring Cybersecurity Analyst · BS IT (Cybersecurity)
+Mah Noor · Aspiring Ethical hacker · BS IT (Cybersecurity)
